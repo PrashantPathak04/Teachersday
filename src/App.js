@@ -55,8 +55,6 @@ function App() {
 })
             .catch((error)=>{console.log(error)});
           }}> Download</button>
-      {fileDataURL ? <p style={{color:'red'}}>Your image is appearing below, please save.</p>:null}
-      
       {fileDataURL ?
         <div className="photoFrame" id="photoFrame">
         <p className="toplacediv"></p>
