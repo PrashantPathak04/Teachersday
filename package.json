@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "npm run build",
-    "build": "webpack -p && webpack-dev-server",
+    "build": "webpack && webpack-dev-server",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "webpack-cli": "^4.10.0"
   }
 }
