@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PrashantPathak04/Teachersday/static/css/main.5f39012d.css",
+    "main.js": "/PrashantPathak04/Teachersday/static/js/main.380a3cdf.js",
+    "static/js/787.dff3b25a.chunk.js": "/PrashantPathak04/Teachersday/static/js/787.dff3b25a.chunk.js",
+    "static/media/C1.jpg": "/PrashantPathak04/Teachersday/static/media/C1.d77ee49ec63934009a5c.jpg",
+    "index.html": "/PrashantPathak04/Teachersday/index.html",
+    "main.5f39012d.css.map": "/PrashantPathak04/Teachersday/static/css/main.5f39012d.css.map",
+    "main.380a3cdf.js.map": "/PrashantPathak04/Teachersday/static/js/main.380a3cdf.js.map",
+    "787.dff3b25a.chunk.js.map": "/PrashantPathak04/Teachersday/static/js/787.dff3b25a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f39012d.css",
+    "static/js/main.380a3cdf.js"
+  ]
+}
